@@ -1,0 +1,53 @@
+[
+    {
+        "0": "primeiro-grau-sol",
+        "1": "\nElas causam vermelhidão, dor e possíveis inchaços, mas não formam bolhas.\n\nGeralmente podem ser tratadas em casa e cicatrizam por conta própria.",
+        "2": "\nQUEIMADURA TÉRMICA é uma lesão na pele causada pelo contato direto com fontes de calor, como fogo, líquidos quentes, vapor ou objetos quentes.\n\nQUEIMADURA QUÍMICA é uma lesão na pele causada pelo contato com substâncias químicas agressivas, como ácidos, bases ou solventes.",
+        "3":"\nQUEIMADURA ELÉTRICA ocorre quando a pele entra em contato com uma corrente elétrica. Esta lesão pode resultar de uma variedade de situações, incluindo acidentes domésticos, falhas em equipamentos elétricos ou trabalhos em ambientes industriais.",
+        "4":"\nQUEIMADURA POR CONTATO COM SUPERFÍCIES QUENTES\n\nO que fazer: Resfrie a área queimada com água fria corrente, aplique uma compressa fria e proteja a pele com um curativo limpo.",
+        "5":"\nO que não fazer: Evite aplicar manteiga, óleo ou pasta de dente na queimadura.\n\nComo prevenir: Use luvas térmicas ao manipular objetos na cozinha.",
+        "6":"\nQUEIMADURA POR EXPOSIÇÃO SOLAR\n\nO que fazer: Lave a pele com\nágua mais fresca e aplique cremes calmantes aprovados por dermatologista",
+        "7":"\n que não fazer: Aplicar produtos irritantes ou caseiros não comprovados por médicos.\n\nComo prevenir: Usar protetor solar e evitar a exposição ao sol durante as horas mais quentes do dia." ,
+        "8":"\nQUEIMADURA POR RESPINGO DE PRODUTO DE LIMPEZA\n\nO que fazer: Após lavar a área afetada, mantenha a pele limpa e seca, e evitar o atrito com roupas ou objetos que possam irritar a região.",
+        "9":"\nO que não fazer: Utilizar produtos ácidos para limpar a área afetada, evitar o contato com água quente, e esfregar a pele irritada.\n\nComo prevenir: Utilizar proteção ao manipular produtos químicos e ler as instruções de uso e segurança dos produtos.",
+        "10":"\nQUEIMADURA POR DESCARGA ELÉTRICA\n\nO que fazer: Procure atendimento médico para avaliação da queimadura elétrica para garantir que não haja danos mais graves.",
+        "11":"\nO que não fazer: Tocar na área afetada, aplicar substâncias e ignorar sintomas como vermelhidão e sensibilidade.\n\nComo prevenir: Evite empinar pipas em dias de vento forte e próximas a fios elétricos, e esteja sempre ciente dos arredores para evitar acidentes com eletricidade",
+        "12":"\nQUEIMADURA POR CONTATO COM FIOS ELÉTRICOS\n\nO que fazer: Lave imediatamente a área afetada com água corrente e procure assistência médica se a queimadura parecer grave ou se não melhorar dentro de alguns dias.",
+        "13":"\nO que não fazer: Aplicar gelo na queimadura, estourar bolhas se formarem e não usar produtos desconhecidos ou caseiros na área afetada.\n\nComo prevenir: Desligar a energia antes de realizar qualquer trabalho elétrico e usar ferramentas isoladas.",
+        "images": [""],
+        "quantidadePaginas": 14
+    },
+    {
+        "0": "\nAs queimaduras de segundo grau afetam a epiderme e parte da derme, a camada abaixo que é mais espessa.\n\nA derme é mais espessa e contém vasos sanguíneos, glândulas sudoríparas e folículos pilosos",
+        "1": "\nPodem causar bolhas, dor intensa e uma aparência avermelhada ou esbranquiçada na pele afetada.\n\nPodem necessitar de cuidados médicos, como curativos especiais e, em casos graves, enxertos de pele.",
+        "2": "\nQUEIMADURA TÉRMICA é uma lesão na pele causada pelo contato direto com fontes de calor, como fogo, líquidos quentes, vapor ou objetos quentes.\n\nQUEIMADURA QUÍMICA é uma lesão na pele causada pelo contato com substâncias químicas agressivas, como ácidos, bases ou solventes.",
+        "3":"\nQUEIMADURA ELÉTRICA ocorre quando a pele entra em contato com uma corrente elétrica. Esta lesão pode resultar de uma variedade de situações, incluindo acidentes domésticos, falhas em equipamentos elétricos ou trabalhos em ambientes industriais.",
+        "4":"\nQUEIMADURA POR ESCALDAMENTO AO DERRUBAR LÍQUIDOS QUENTES\n\nO que fazer: Resfriar a queimadura com água fria, cobrir com pano limpo e úmido e procurar atendimento médico imediato.",
+        "5":"\nO que não fazer: Estourar as bolhas, aplicar gelo diretamente, usar produtos caseiros\n\nComo prevenir: Manter os cabos das panelas voltados para dentro do fogão e brincar em um ambiente mais seguro com supervisão.",
+        "6":"\nQUEIMADURA POR USO EXCESSIVO DE GELO\n\nO que fazer: Remover o gelo, lavar a área com água corrente e procurar assistência médica",
+        "7":"\nO que não fazer: Evitar aplicar gelo por longos períodos, não estourar as bolhas e não ignorar os sintomas adicionais\n\nComo prevenir: Usar barreira entre o gelo e a pele, limitar o tempo de aplicação e monitorar regularmente a pele durante o tratamento.",
+        "8":"\nQUEIMADURA POR EXPLOSÃO QUÍMICA NA CHURRASQUEIRA\n\nO que fazer: Retirar imediatamente a pessoa do local, remover as roupas contaminadas, lavar a área afetada com água corrente e procurar atendimento médico.",
+        "9":"\nO que não fazer: Não aplicar cremes ou pomadas sem orientação médica, não estourar as bolhas e evitar o uso de produtos caseiros na queimadura.\n\nComo prevenir: Evitar o uso de álcool para acelerar o fogo em churrascos, seguir as instruções de segurança ao lidar com substâncias inflamáveis.",
+        "10":"\nQUEIMADURA POR CONTATO COM ÁCIDO NO LABORATÓRIO\n\nO que fazer: Enxaguar a área afetada com água em abundância, cobrir a queimadura com um pano limpo e úmido e procurar atendimento médico especializado",
+        "11":"\nO que não fazer: Evite aplicar vinagre ou outras substâncias ácidas e não esfregue a área afetada.\n\nComo prevenir: Usar equipamento de proteção individual adequado ao manusear substâncias químicas e seguir as precauções e procedimentos de segurança recomendados para manipulação de produtos químicos.",
+        "12":"\nQUEIMADURA POR MATERIAL DE SODA CÁUSTICA\n\nO que fazer: Remover roupas contaminadas, lavar com água fria e procurar assistência médica.",
+        "13":"\nO que não fazer: Estourar bolhas, aplicar loções sem orientação médica e adiar a busca por ajuda médica.\n\nComo prevenir: Usar equipamentos de proteção e trabalhar em área bem ventilada para reduzir o risco de inalação de vapores químicos.",
+        "14":"\nINTOXICAÇÃO POR MONÓXIDO DE CARBONO\n\nO que fazer: Sair da área contaminada, fornecer ar fresco, e buscar atendimento médico imediato.",
+        "15":"\nO que não fazer: Permanecer na área contaminada, acender novamente a churrasqueira e subestimar os sintomas de intoxicação.\n\nComo prevenir: Nunca acender churrasqueiras dentro de ambientes fechados, manter áreas bem ventiladas, e instalar detectores de monóxido de carbono em casa.",
+        "quantidadePaginas": 15
+
+
+    },
+    {
+        "0": "\nAs queimaduras de terceiro grau são as mais graves, atingindo todas as camadas da pele, incluindo a hipoderme, camada mais profunda composta principalmente de tecido adiposo.\n\n",
+        "1": "\nPodem causar danos graves, como destruição de nervos e músculos. A pele pode parecer carbonizada ou esbranquiçada, pode não causar dor devido à destruição dos nervos na área afetada.\n\nO tratamento requer cuidados médicos imediatos.",
+        "2": "\nQUEIMADURA TÉRMICA é uma lesão na pele causada pelo contato direto com fontes de calor, como fogo, líquidos quentes, vapor ou objetos quentes.\n\nQUEIMADURA QUÍMICA é uma lesão na pele causada pelo contato com substâncias químicas agressivas, como ácidos, bases ou solventes.",
+        "3":"\nQUEIMADURA ELÉTRICA ocorre quando a pele entra em contato com uma corrente elétrica. Esta lesão pode resultar de uma variedade de situações, incluindo acidentes domésticos, falhas em equipamentos elétricos ou trabalhos em ambientes industriais.",
+        "4":"\nQueimadura por escaldamento ao derrubar objetos quentes\n\nO que fazer: Chamar imediatamente o serviço de emergência e evitar tocar na área queimada.",
+        "5":"\nO que não fazer: Tentar remover roupas grudadas na pele, aplicar qualquer tipo de loção ou creme na queimadura e evitar mover a pessoa desnecessariamente\n\nComo prevenir: Evitar colocar objetos quentes em locais de fácil acesso, como a mesa, especialmente em eventos com idosos e crianças.",
+        "6":"\nQUEIMADURA POR CONTATO COM EQUIPAMENTOS ENERGIZADOS\n\nO que fazer: Chame imediatamente uma equipe de resgate ou serviço de emergência para fornecer cuidados médicos urgentes.",
+        "7":"\nO que não fazer: Tentar mover ou tocar na pessoa afetada desnecessariamente, aplicar qualquer substância na queimadura e subestimar a gravidade da lesão.\n\nComo prevenir: Utilizar proteção ao trabalhar com eletricidade e seguir procedimentos de segurança para evitar acidentes.",
+        "quantidadePaginas": 7
+
+    }
+]
